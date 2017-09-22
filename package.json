@@ -1,0 +1,8 @@
+{
+  "name": "gulp_yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:evgenyzhernoklev/gulp_yarn.git",
+  "author": "Evgeny Z",
+  "license": "MIT"
+}
